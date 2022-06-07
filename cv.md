@@ -1,11 +1,11 @@
 # Violetta Fedkovich
 
-# My contacts
+## My contacts
 
-    + **Gmail**: Violetta08072001@gmail.com
-    + **Phone**: +375333281893
-    + **GitHub**: [valledeliria](https://github.com/valledeliria)
-    + **Telegram**: [Obi-Van Fedkovi4](https://t.me/ValleDeliria451)
++ **Gmail**: Violetta08072001@gmail.com
++ **Phone**: +375333281893
++ **GitHub**: [valledeliria](https://github.com/valledeliria)
++ **Telegram**: [Obi-Van Fedkovi4](https://t.me/ValleDeliria451)
 
 # About Me
 
