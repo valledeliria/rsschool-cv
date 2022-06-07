@@ -1,17 +1,17 @@
-# Violetta Fedkovich#
+# Violetta Fedkovich
 
-## My contacts##
-+
+## My contacts
+
     + **Gmail**: Violetta08072001@gmail.com
     + **Phone**: +375333281893
     + **GitHub**: [valledeliria](https://github.com/valledeliria)
     + **Telegram**: [Obi-Van Fedkovi4](https://t.me/ValleDeliria451)
 
-# About Me#
+# About Me
 
 I'm 20 years old. Today I am studying at BNTU in Minsk, and I absolutely wouldn't like to associate my life with it. I always wanted to create something new and at the same time constantly develop. IT is the most suitable field for this. Here, in addition to logic, creativity and interpersonal communication skills are also needed. Thanks to my penchant for technical sciences in the 21st century, with due diligence, you can become a very sought-after specialist. At the moment, I haven't experience working with real projects, but I have basic knowledge of HTML/CSS thanks to FructCode and certain skills in the field of QA thanks to Belhard.
 
-+ **My strangth**: 
+**My strangth**: 
     + *entrepreneurship*
     + *teamwork*
     + *analytical mindset*
@@ -79,3 +79,5 @@ I'm 20 years old. Today I am studying at BNTU in Minsk, and I absolutely wouldn'
 + Belarussian - native speaker
 + Spanish - Elementary
 + English - Pre-Intermediate
+
+![](https://avatars.githubusercontent.com/u/106688826?s=400&u=5e372be13e48842d671d93668bed58e8fd316f4a&v=4)
