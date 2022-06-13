@@ -11,13 +11,13 @@
 
 I'm 20 years old. Today I am studying at BNTU in Minsk, and I absolutely wouldn't like to associate my life with it. I always wanted to create something new and at the same time constantly develop. IT is the most suitable field for this. Here, in addition to logic, creativity and interpersonal communication skills are also needed. Thanks to my penchant for technical sciences in the 21st century, with due diligence, you can become a very sought-after specialist. At the moment, I haven't experience working with real projects, but I have basic knowledge of HTML/CSS thanks to FructCode and certain skills in the field of QA thanks to Belhard.
 
-**My strangth**: 
-    + *entrepreneurship*
-    + *teamwork*
-    + *analytical mindset*
-    + *efficiency in training*
-    + *full immersion in the essence of the problems*
-    + *initiative*
+**My strengths**: 
++ *entrepreneurship*
++ *teamwork*
++ *analytical mindset*
++ *efficiency in training*
++ *full immersion in the essence of the problems*
++ *initiative*
 
 # Skills
 
